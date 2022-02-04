@@ -1,14 +1,11 @@
 # application1
 First react application
 
-##To run this app :
+# To run this app :
 
-#install dependencies
-npm i
+> npm i
 
-#run app
-npm start
+> npm start
 
-#Serve the json file in data/test.json
-npx json-server --watch data/test.json --port 8000
+> npx json-server --watch data/test.json --port 8000
 
